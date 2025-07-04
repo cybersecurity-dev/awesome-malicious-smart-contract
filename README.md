@@ -1,2 +1,1 @@
-# awesome-malicious-smart-contract
-Awesome Malicious Smart Contract
+# Awesome Malicious Smart Contract [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
